@@ -1,3 +1,7 @@
+
+
+
+
 #  Animal Explorers For Kiddies
 
 Turn your own animal notes, PDFs and fact sheets into a narrated kids' video, where every sentence is checked against the document it came from.
@@ -10,7 +14,7 @@ Ask for "the octopus and the giraffe", "letter P", "A to Z" or "animals that liv
 [Demo](#demo) · [Why this exists](#why-this-exists) · [How it works](#how-it-works) · [Setup](#setup) · [Adding your own documents](#adding-your-own-documents) · [What's in the box](#whats-in-the-box) · [Results](#results) · [Project layout](#project-layout) · [Limitations](#limitations)
 
 ## Demo
-
+https://github.com/user-attachments/assets/c8dd2490-2914-41a6-b7b3-ae82ea168c62
 
 
 
