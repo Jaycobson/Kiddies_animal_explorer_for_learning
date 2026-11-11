@@ -1,0 +1,464 @@
+{
+  "title": "Animal Explorers: Octopus, Zebra",
+  "request": "Teach kids about the octopus and the zebra",
+  "age_band": "5-7",
+  "resolution": [
+    "Named in your request: Octopus, Zebra"
+  ],
+  "style": "Bright, friendly children's picture-book illustration, soft rounded shapes, warm natural colours, clean uncluttered background, no text or lettering",
+  "animals": {
+    "Octopus": {
+      "letter": "O",
+      "look": "A soft-bodied reddish-orange octopus with a round head, eight curling arms covered in suckers and large clever eyes"
+    },
+    "Zebra": {
+      "letter": "Z",
+      "look": "Zebras are wild horses that live in Africa."
+    }
+  },
+  "scenes": [
+    {
+      "kind": "card",
+      "animal": "Octopus",
+      "letter": "O",
+      "text": "O is for Octopus!",
+      "cites": [],
+      "sources": [],
+      "index": 1,
+      "include": true,
+      "image": "samples/offline_demo/scene_01.png",
+      "audio": "samples/offline_demo/scene_01.mp3"
+    },
+    {
+      "kind": "fact",
+      "animal": "Octopus",
+      "letter": "O",
+      "text": "Did you know? An octopus has eight arms covered with suckers.",
+      "claims": [
+        {
+          "text": "Did you know? An octopus has eight arms covered with suckers.",
+          "cite": [
+            "octopus-01"
+          ],
+          "recall": 1.0
+        }
+      ],
+      "cites": [
+        "octopus-01"
+      ],
+      "sources": [
+        {
+          "id": "octopus-01",
+          "title": "octopus.md",
+          "source": "Project fact sheet (sample text written for this demo)",
+          "url": ""
+        }
+      ],
+      "prompt": "Style: Bright, friendly children's picture-book illustration, soft rounded shapes, warm natural colours, clean uncluttered background, no text or lettering. Main subject: Octopus (A soft-bodied reddish-orange octopus with a round head, eight curling arms covered in suckers and large clever eyes). Keep the Octopus looking identical in every scene. Scene: A friendly, colourful illustration of a Octopus. An octopus has eight arms covered with suckers.",
+      "index": 2,
+      "include": true,
+      "image": "samples/offline_demo/scene_02.png",
+      "audio": "samples/offline_demo/scene_02.mp3"
+    },
+    {
+      "kind": "fact",
+      "animal": "Octopus",
+      "letter": "O",
+      "text": "Look! When an octopus is scared it can squirt a cloud of dark ink into the water and swim away while the enemy is confused.",
+      "claims": [
+        {
+          "text": "Look! When an octopus is scared it can squirt a cloud of dark ink into the water and swim away while the enemy is confused.",
+          "cite": [
+            "octopus-04"
+          ],
+          "recall": 1.0
+        }
+      ],
+      "cites": [
+        "octopus-04"
+      ],
+      "sources": [
+        {
+          "id": "octopus-04",
+          "title": "octopus.md",
+          "source": "Project fact sheet (sample text written for this demo)",
+          "url": ""
+        }
+      ],
+      "prompt": "Style: Bright, friendly children's picture-book illustration, soft rounded shapes, warm natural colours, clean uncluttered background, no text or lettering. Main subject: Octopus (A soft-bodied reddish-orange octopus with a round head, eight curling arms covered in suckers and large clever eyes). Keep the Octopus looking identical in every scene. Scene: A friendly, colourful illustration of a Octopus. When an octopus is scared it can squirt a cloud of dark ink into the water and swim away while the enemy is confused.",
+      "index": 3,
+      "include": true,
+      "image": "samples/offline_demo/scene_03.png",
+      "audio": "samples/offline_demo/scene_03.mp3"
+    },
+    {
+      "kind": "quiz",
+      "animal": "Octopus",
+      "letter": "O",
+      "question": "True or false: An octopus has eight arms covered with suckers.",
+      "answer": "True! An octopus has eight arms covered with suckers.",
+      "cites": [
+        "octopus-01"
+      ],
+      "sources": [
+        {
+          "id": "octopus-01",
+          "title": "octopus.md",
+          "source": "Project fact sheet (sample text written for this demo)",
+          "url": ""
+        }
+      ],
+      "text": "Quick quiz time! True or false: An octopus has eight arms covered with suckers. ... Here is the answer. True! An octopus has eight arms covered with suckers.",
+      "index": 4,
+      "include": true,
+      "image": "samples/offline_demo/scene_04.png",
+      "audio": "samples/offline_demo/scene_04.mp3"
+    },
+    {
+      "kind": "card",
+      "animal": "Zebra",
+      "letter": "Z",
+      "text": "Z is for Zebra!",
+      "cites": [],
+      "sources": [],
+      "index": 5,
+      "include": true,
+      "image": "samples/offline_demo/scene_05.png",
+      "audio": "samples/offline_demo/scene_05.mp3"
+    },
+    {
+      "kind": "fact",
+      "animal": "Zebra",
+      "letter": "Z",
+      "text": "Did you know? Zebras can run as fast as 65 kilometres per hour to escape lions.",
+      "claims": [
+        {
+          "text": "Did you know? Zebras can run as fast as 65 kilometres per hour to escape lions.",
+          "cite": [
+            "zebra-notes-01"
+          ],
+          "recall": 1.0
+        }
+      ],
+      "cites": [
+        "zebra-notes-01"
+      ],
+      "sources": [
+        {
+          "id": "zebra-notes-01",
+          "title": "zebra_notes.txt",
+          "source": "zebra_notes.txt",
+          "url": ""
+        }
+      ],
+      "prompt": "Style: Bright, friendly children's picture-book illustration, soft rounded shapes, warm natural colours, clean uncluttered background, no text or lettering. Main subject: Zebra (Zebras are wild horses that live in Africa.). Keep the Zebra looking identical in every scene. Scene: A friendly, colourful illustration of a Zebra. Zebras can run as fast as 65 kilometres per hour to escape lions.",
+      "index": 6,
+      "include": true,
+      "image": "samples/offline_demo/scene_06.png",
+      "audio": "samples/offline_demo/scene_06.mp3"
+    },
+    {
+      "kind": "fact",
+      "animal": "Zebra",
+      "letter": "Z",
+      "text": "Look! Zebras are wild horses that live in Africa.",
+      "claims": [
+        {
+          "text": "Look! Zebras are wild horses that live in Africa.",
+          "cite": [
+            "zebra-notes-01"
+          ],
+          "recall": 1.0
+        }
+      ],
+      "cites": [
+        "zebra-notes-01"
+      ],
+      "sources": [
+        {
+          "id": "zebra-notes-01",
+          "title": "zebra_notes.txt",
+          "source": "zebra_notes.txt",
+          "url": ""
+        }
+      ],
+      "prompt": "Style: Bright, friendly children's picture-book illustration, soft rounded shapes, warm natural colours, clean uncluttered background, no text or lettering. Main subject: Zebra (Zebras are wild horses that live in Africa.). Keep the Zebra looking identical in every scene. Scene: A friendly, colourful illustration of a Zebra. Zebras are wild horses that live in Africa.",
+      "index": 7,
+      "include": true,
+      "image": "samples/offline_demo/scene_07.png",
+      "audio": "samples/offline_demo/scene_07.mp3"
+    },
+    {
+      "kind": "quiz",
+      "animal": "Zebra",
+      "letter": "Z",
+      "question": "True or false: Zebras can run as fast as 65 kilometres per hour to escape lions.",
+      "answer": "True! Zebras can run as fast as 65 kilometres per hour to escape lions.",
+      "cites": [
+        "zebra-notes-01"
+      ],
+      "sources": [
+        {
+          "id": "zebra-notes-01",
+          "title": "zebra_notes.txt",
+          "source": "zebra_notes.txt",
+          "url": ""
+        }
+      ],
+      "text": "Quick quiz time! True or false: Zebras can run as fast as 65 kilometres per hour to escape lions. ... Here is the answer. True! Zebras can run as fast as 65 kilometres per hour to escape lions.",
+      "index": 8,
+      "include": true,
+      "image": "samples/offline_demo/scene_08.png",
+      "audio": "samples/offline_demo/scene_08.mp3"
+    },
+    {
+      "kind": "outro",
+      "animal": "",
+      "letter": "",
+      "cites": [],
+      "sources": [],
+      "text": "That is all for today, explorers! Which animal was your favourite?",
+      "index": 9,
+      "include": true,
+      "image": "samples/offline_demo/scene_09.png",
+      "audio": "samples/offline_demo/scene_09.mp3"
+    }
+  ],
+  "skipped": [],
+  "trace": [
+    {
+      "animal": "Octopus",
+      "aspect": "look",
+      "query": "Octopus what it looks like: body, size, colour, skin, fur",
+      "hits": [
+        {
+          "id": "octopus-03",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "octopus-01",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Octopus",
+      "aspect": "home",
+      "query": "Octopus where it lives: habitat, country, ocean, forest, savanna",
+      "hits": [
+        {
+          "id": "octopus-06",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "octopus-04",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Octopus",
+      "aspect": "food",
+      "query": "Octopus what it eats and drinks",
+      "hits": [
+        {
+          "id": "octopus-04",
+          "score": 0.0323,
+          "bm25_rank": 0,
+          "vector_rank": 2
+        },
+        {
+          "id": "octopus-06",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Octopus",
+      "aspect": "family",
+      "query": "Octopus babies, young, born, mother, herd, group",
+      "hits": [
+        {
+          "id": "octopus-06",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "octopus-04",
+          "score": 0.032,
+          "bm25_rank": 1,
+          "vector_rank": 2
+        }
+      ]
+    },
+    {
+      "animal": "Octopus",
+      "aspect": "skill",
+      "query": "Octopus amazing ability, special body part, how it moves, behaviour",
+      "hits": [
+        {
+          "id": "octopus-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "octopus-03",
+          "score": 0.032,
+          "bm25_rank": 1,
+          "vector_rank": 2
+        }
+      ]
+    },
+    {
+      "animal": "Octopus",
+      "aspect": "fun",
+      "query": "Octopus surprising fun fact: how long it lives, how fast, how big",
+      "hits": [
+        {
+          "id": "octopus-06",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "octopus-04",
+          "score": 0.032,
+          "bm25_rank": 1,
+          "vector_rank": 2
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "look",
+      "query": "Zebra what it looks like: body, size, colour, skin, fur",
+      "hits": [
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "home",
+      "query": "Zebra where it lives: habitat, country, ocean, forest, savanna",
+      "hits": [
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "food",
+      "query": "Zebra what it eats and drinks",
+      "hits": [
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "family",
+      "query": "Zebra babies, young, born, mother, herd, group",
+      "hits": [
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "skill",
+      "query": "Zebra amazing ability, special body part, how it moves, behaviour",
+      "hits": [
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0325,
+          "bm25_rank": 0,
+          "vector_rank": 1
+        },
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0325,
+          "bm25_rank": 1,
+          "vector_rank": 0
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "aspect": "fun",
+      "query": "Zebra surprising fun fact: how long it lives, how fast, how big",
+      "hits": [
+        {
+          "id": "zebra-notes-01",
+          "score": 0.0328,
+          "bm25_rank": 0,
+          "vector_rank": 0
+        },
+        {
+          "id": "zebra-notes-02",
+          "score": 0.0323,
+          "bm25_rank": 1,
+          "vector_rank": 1
+        }
+      ]
+    }
+  ],
+  "report": {
+    "claims": 6,
+    "supported": 6,
+    "faithfulness": 1.0,
+    "rejected": []
+  }
+}

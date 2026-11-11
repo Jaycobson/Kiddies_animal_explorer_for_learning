@@ -1,0 +1,152 @@
+[
+ {
+  "q": "How many hearts does an octopus have?",
+  "answer_contains": "three hearts",
+  "tier": "direct"
+ },
+ {
+  "q": "Why is octopus blood blue?",
+  "answer_contains": "copper",
+  "tier": "direct"
+ },
+ {
+  "q": "What do you call a baby kangaroo?",
+  "answer_contains": "joey",
+  "tier": "direct"
+ },
+ {
+  "q": "How long does a joey stay in the pouch?",
+  "answer_contains": "eight months",
+  "tier": "direct"
+ },
+ {
+  "q": "How tall can a giraffe grow?",
+  "answer_contains": "5.5 metres",
+  "tier": "direct"
+ },
+ {
+  "q": "How many neck bones does a giraffe have?",
+  "answer_contains": "seven neck bones",
+  "tier": "direct"
+ },
+ {
+  "q": "What is a group of giraffes called?",
+  "answer_contains": "tower",
+  "tier": "direct"
+ },
+ {
+  "q": "Who leads an elephant herd?",
+  "answer_contains": "matriarch",
+  "tier": "direct"
+ },
+ {
+  "q": "How long is an elephant pregnant?",
+  "answer_contains": "22 months",
+  "tier": "direct"
+ },
+ {
+  "q": "Why do elephants flap their ears?",
+  "answer_contains": "cool down",
+  "tier": "direct"
+ },
+ {
+  "q": "What does a blue whale eat?",
+  "answer_contains": "krill",
+  "tier": "direct"
+ },
+ {
+  "q": "How long can a blue whale live?",
+  "answer_contains": "80 to 90 years",
+  "tier": "direct"
+ },
+ {
+  "q": "Where do wild axolotls live?",
+  "answer_contains": "Xochimilco",
+  "tier": "direct"
+ },
+ {
+  "q": "Which animal can regrow its legs and parts of its heart?",
+  "answer_contains": "regrow lost legs",
+  "tier": "direct"
+ },
+ {
+  "q": "Who keeps the emperor penguin egg warm?",
+  "answer_contains": "Male emperor penguins",
+  "tier": "direct"
+ },
+ {
+  "q": "What are the three kinds of zebra?",
+  "answer_contains": "mountain zebra",
+  "tier": "direct"
+ },
+ {
+  "q": "How fast can a zebra run?",
+  "answer_contains": "65 kilometres",
+  "tier": "direct"
+ },
+ {
+  "q": "Which sea creature squirts ink to escape?",
+  "answer_contains": "dark ink",
+  "tier": "direct"
+ },
+ {
+  "q": "Which bird cannot fly but swims fast?",
+  "answer_contains": "cannot fly",
+  "tier": "direct"
+ },
+ {
+  "q": "What animal sleeps standing up and has stripes?",
+  "answer_contains": "sleep standing up",
+  "tier": "direct"
+ },
+ {
+  "q": "Which creature has blue blood?",
+  "answer_contains": "Its blood is blue",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which animal carries its young in a belly pocket?",
+  "answer_contains": "carry their babies in a pouch",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which land animal has the longest time before its baby arrives?",
+  "answer_contains": "longer than any other land animal",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "What is the biggest creature that has ever existed?",
+  "answer_contains": "largest animal known to have ever lived",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "How does a tall browsing animal strip thorny branches?",
+  "answer_contains": "pull leaves from thorny branches",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which water-dweller never loses its feathery breathing organs as an adult?",
+  "answer_contains": "keeps its feathery gills",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which sea animal can disappear against rocks and coral?",
+  "answer_contains": "match rocks, sand and coral",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "How do striped wild horses get away from lions?",
+  "answer_contains": "65 kilometres",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which animal's newborn can walk in under an hour and is taller than a child?",
+  "answer_contains": "already about 1.8 metres tall",
+  "tier": "paraphrase"
+ },
+ {
+  "q": "Which animal warms its egg on its feet through the freezing dark season?",
+  "answer_contains": "keep the egg warm on their feet",
+  "tier": "paraphrase"
+ }
+]
