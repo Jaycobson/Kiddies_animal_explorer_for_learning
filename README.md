@@ -84,12 +84,6 @@ Put your key in `.env`:
 OPENAI_API_KEY=your-key-here
 ```
 
-**Run**
-
-```bash
-streamlit run app.py
-```
-
 Open `http://localhost:8501`. The sidebar lets you set the maximum number of animals (1 to 6), facts per animal (1 to 5) and the age group (0-3, 3-5, 5-7 or 7-9).
 
 The **Knowledge base** tab shows what has been indexed, which animals it found and which documents each one came from. You can upload more files there.
